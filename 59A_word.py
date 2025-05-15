@@ -1,5 +1,5 @@
 '''
-codeforce : 59A. Word
+codeforces : 59A. Word
 https://codeforces.com/problemset/problem/59/A
 
 '''
